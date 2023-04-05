@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcosbodio
-- 👀 I’m interested in knowledge representation, NLP, deep learning, functional programming and health informatics
+- 👀 I’m interested in knowledge graphs, NLP, deep learning, functional programming and health informatics
 - 📫 How to reach me: https://www.linkedin.com/in/sbodio/
 
 <!---
